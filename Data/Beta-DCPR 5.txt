@@ -3830,7 +3830,7 @@ Reserved land owners have the option to construct a built-up area (BUA) equal to
 
 
 
-Alternatively, owners can choose to develop land by adhering to the same 'X'% of Basic (Zonal) FSI for BUA creation but transfer ownership to the MCGM unconditionally, in accord with Table 5's guidelines and after premium payment based on Note 20(i) below Table 5 or as periodically determined by the Government. This arrangement exempts them from the obligation to concede 'Y'% of the reserved plot's area and hinges on them also complying with conditions ii) and iii). 
+Alternatively, owners can choose to develop land by adhering to the same 'X'% of Basic (Zonal) FSI for BUA creation but transfer ownership to the MCGM unconditionally, in accord with Table 5's guidelines and after premium payment based on Note 20(i) below Table 5 or as periodically determined by the Government. This arrangement exempts them from the obligation to concede 'Y'% of the reserved plot's area and hinges on them also complying with conditions ii) and iii. 
 
 
 
@@ -3864,46 +3864,30 @@ Each construction that is required for the entry and exit of passengers using pu
 
 
 
-##  Table 3 - Conditions and Implementing Authority for Developing Reservations 
 
 
 
-1. For the symbol '1', the applied development conditions include that either the Corporation or Appropriate Authorities can entrust the development, operation, and maintenance of the entire reservation to an appropriate agency.
-
-
-2. For the symbol '2', the Owner of the land is permitted to undertake development activities only for the reservation's intended purpose.
-
-
-3. For the symbol '3', the Owner is permitted to develop the reservation based on the Accommodation Reservation basis.
-
-
-4. For symbol 'Za', there is a maximum percentage ('%') of plot area that can be utilized for auxiliary uses.
-
-
-5. For symbol 'Zb', there is a maximum percentage ('%') of permissible built-up area as per Zonal (basic) FSI of the reservation area that can be utilized for auxiliary uses.
-
-
-6. For symbol 'X', there is a maximum percentage ('%') of development rights permissible at Zonal (basic) FSI, of the reservation area affecting the plot for constructing a built-up amenity.
-
-
-7. For symbol 'Y', there is a maximum percentage of reserved plot to be allocated for built-up amenity to be developed under AR and be handed over to MCGM, along with the built-up amenity.
+##  Table 3 - Development Regulations for Reservations: Permissible Uses & Ancillary Activities 
 
 
 
-##  Table 4 - Development Regulations for Reservations: Permissible Uses & Ancillary Activities 
+1. **Reservation for Promenade (Public Open Spaces - ROS)**: 
+   - Permissible Uses: Coastal Road, Promenade/Promenades along periphery of water body/river/sea/pipeline.
+   - Ancillary Activities: Watchman cabin, Gardener chowky, toilet block, Art and culture related uses, Public Toilet facilities.
+   - Development Condition: Corporation or Authorities may entrust development .
 
+2. **Reservation for Zoo (Public Open Spaces - ROS 2.3)**: 
+   - Permissible Uses: Zoo, Aquarium with permissible FSI of 0.025.
+   - Development Condition: Corporation or Authorities may entrust development .
 
+3. **Reservation for Municipal Sports Complex (Public Open Spaces - ROS 2.4)**:
+   - Permissible Uses: Sports Complex, Enclosed Sports Facility, Gymnasium, Swimming Pool, Drama Theater, Public Toilet facilities, Changing Rooms, Locker Room.
+   - Ancillary Activities: Open air stage, cafeteria, restaurant, rest rooms, social and cultural amenities, Art and culture related uses, hostel rooms, watchman’s cabin, gardener’s chowky, Sport Store/Shop.
+   - Development Conditions: Corporation or Authorities may oversee development , Maximum 15% of built-up area for ancillary uses.
 
-1. The first clause under the main category of 'Public Open Spaces' holds the reservation sub-category code 'ROS' for Promenades. Permissible uses include the Coastal Road, Promenade/Promenades along the periphery of a water body like a river, sea, pipeline, and ancillary activities include watchman cabin, gardener chowky, toilet block, activities related to art and culture, and public toilet facilities - all of which are applicable to development condition '1'.
-
-
-2. The second term relates to 'Public Open Spaces', with the reservation sub-category 'ROS 2.3' for Zoo. In this case, a zoo or an aquarium permissible FSI of 0.025 are permitted, with condition '1' applicable for development. 
-
-
-3. The third term under the main category of 'Public Open Spaces', has a reservation sub-category code 'ROS 2.4' for Municipal Sports Complex. It permits facilities for various sports activities, enclosed sports facilities for indoor games, Indian sports facilities, and a few other facilities. Not to omit, 'Zb=15' is the applicable condition for development. 
-
-
-4. The fourth term relates to 'Public Open Spaces' with reservation subcategory code 'ROS 2.7' for Green Belt. Usage of this space is permitted for green belts, promenades, and substation distribution facilities, with watchman’s cabin, gardener’s chowky, instrument room, and toilet block as auxiliary facilities.
+4. **Reservation for Green Belt (Public Open Spaces - ROS 2.7)**:
+   - Permissible Uses: Green belt / Promenades, Substation, Distribution Facility.
+   - Ancillary Activities: Watchman cabin, Gardener chowky, toilet block.
 
 
 # Section 17(1): Guidelines for the Development of Reserved Land for Public Use
@@ -3914,15 +3898,20 @@ Each construction that is required for the entry and exit of passengers using pu
 
 
 
-1. Under Public Open Spaces No.5, Botanical Garden (ROS 2.8), facilities including a watchman cabin, gardener chowky, and a toilet block are permitted at suitable locations.
+5.**Reservation for Botanical Garden (Public Open Spaces - ROS 2.8)**:
+   - Permissible Uses: Botanical Garden.
+   - Ancillary Activities: Watchman cabin, Gardener chowky, toilet block.
+   - Development Condition: Corporation or Authorities may entrust development .
 
+6. **Reservation for Fuel Station (Public Utility - RPU 2.1)**:
+   - Permissible Uses: Fuel filling station, City gate station, Gas distribution station, battery charging facility.
+   - Ancillary Activities: Administrative building, ATM, book shop, cafeteria, canteen (with NOC requirements).
+   - Development Conditions: Corporation or Authorities may oversee development or Owner develops for intended purpose , Maximum 10% of plot area for ancillary uses, 10% of built-up area for ancillary uses .
 
-
-2. In case of Public Utility No.6 (RPU 2.1), it is permissible to establish a fuel filling station with vehicle washing, city gate station, gas distribution station, and battery charging facility. Admin buildings, ATM, bookshop, cafeteria, canteen (without cooking with open flame), are allowed, subject to obtaining NOC from CFO and controller of Explosive.
-
-
-
-3. Social Amenity No.7, Exhibition Centre (RSA 5.1) permits the establishment of an Exhibition Center cum Convention Hall with potentially attached offices, lounges, registration area, canteen cum refreshment area, surveillance and security rooms, and other facilities. Ancillary activities with Hotel of not less than 3-Star category, food court, ATM, and more are allowed with the corresponding development conditions Zb=10.
+7. **Reservation for Exhibition Centre (Social Amenities - RSA 5.1)**:
+   - Permissible Uses: Exhibition Center, Convention Hall, supporting activities as Hotels, Food court, fine dining, shopping, ATM, recreation area, Art and culture related uses.
+   - Ancillary Activities: Bank branch, ATM, Information Kiosk, police chowky.
+   - Development Conditions: Corporation or Authorities may oversee development or Owner develops for intended purpose , Maximum 10% of built-up area for ancillary uses .
 
 
 
@@ -3930,27 +3919,36 @@ Continuing with Table No: 4,
 
 
 
-4. Under Reservation No.8, Film Studio/ TV Studio (RSA 7.1), it is allowable to build a Film Studio/ TV Studio/Dubbing & Recording Studio/ Preview Theater with administrative office. Ancillary uses such as ATMs, shops, dispensaries, and canteens are permitted under the development conditions 1 or 2, Zb = 10.
+8. **Reservation for Film/TV Studio (RSA 7.1)**:
+   - Permissible Uses: Film Studio, TV Studio, Dubbing & Recording Studio, Preview Theater with administrative office, Art and culture related uses.
+   - Ancillary Activities: ATM, shops, Dispensary, Canteen.
+   - Development Conditions: Corporation or Authorities may oversee development or Owner develops for intended purpose , Maximum 10% of built-up area for ancillary uses .
+
+9. **Reservation for Animal Shelter (RSA 8.1)**:
+   - Permissible Uses: Animal shelter, shed for animals with animal eating & drinking facilities.
+   - Ancillary Activities: Chowky & toilet block.
+   - Development Conditions: Corporation or Authorities may oversee development or Owner develops for intended purpose , Maximum 10% of built-up area for ancillary uses .
+
+10. **Reservation for Land Fill Site (RMS 3.2)**:
+   - Permissible Uses: Solid Waste Disposal Facility, Land Fill Site.
+   - Development Conditions: Corporation or Authorities may oversee development , Maximum 10% of plot area for ancillary uses, Maximum 10% of built-up area for ancillary uses .
 
 
 
-5. Reservation No.9, Animal shelter (RSA 8.1) allows the establishment of an animal shelter, shed for animals with animal eating & drinking facilities. Chowky & toilet blocks are permitted with the development conditions of 1 or 2, and Zb = 10.
+11. **Reservation for Sewage Treatment Plant/Facilities (RMS 4.1)**:
+   - Permissible Uses: Sewerage Treatment Plant, Aerated Lagoons, ETP & Allied Services, including Municipal Chowky, Municipal Store, Municipal Office, Workshop with Staff Quarters.
+   - Ancillary Activities: Canteen, Dispensary Unit, Branch of a Bank.
+   - Development Conditions: Corporation or Authorities may oversee development , Maximum 10% of plot area for ancillary uses, Maximum 10% of built-up area for ancillary uses .
 
+12. **RMS 4.3 (Sewage Pumping Station)**:
+   - Permissible Uses: Sewage Pumping Station, including Municipal Chowky, Municipal Store, Municipal Office, Municipal Workshop, Staff Quarters.
+   - Ancillary Activities: Canteen, Dispensary Unit, Branch of a Bank.
+   - Development Conditions: Corporation or Authorities may oversee development , Maximum 10% of built-up area for ancillary uses .
 
-
-6. Under Reservation No.10, Land Fill Site (RMS 3.2), it is permissible to have solid waste disposal facilities and landfill sites. The applicable conditions for development are 1, Za=10, and Zb=10.
-
-
-
-7. Reservation No.11, Sewage Treatment Plant/Facilities (RMS 4.1), enables the establishment of sewage treatment facilities, aerated lagoons, ETP & allied services along with municipal offices, stores, and workshops. Ancillary activities such as canteens, dispensary units, branches of a bank are permitted with the development conditions of 1, Za=10, and Zb=10.
-
-
-
-8. Reservation No.12, Sewage Pumping Station (RMS 4.3) enables the establishment of a sewage pumping station with municipal facilities. Ancillary services like canteens, dispensary units, branches of a bank are allowed under the development conditions of 1, and Zb = 10.
-
-
-
-9. Reservation No.13, Reservoir (RMS 5.1), part of the municipal services, permits the building of water reservoirs and overhead service reservoirs, along with municipal offices, stores, and more. Ancillary units like canteens, dispensaries, branches of a bank are allowed under the development condition Zb = 10.
+13. **Reservation for Sewage Pumping Station (RMS 4.3)**:
+   - Permissible Uses: Water Reservoir, Overhead Service Reservoirs, Garden and Play Ground Pumping Station, including Municipal Office, Municipal Chowky, Municipal Store, Staff Quarters.
+   - Ancillary Activities: Canteen, Dispensary Unit, Branch of a Bank.
+   - Development Conditions: Corporation or Authorities may oversee development , Maximum 10% of built-up area for ancillary uses .
 
 
 
@@ -3964,39 +3962,50 @@ Continuing with Table No: 4,
 
 
 
-The 14th entry under Accommodation Reservation (AR) for reserved land development pertains to Municipal Services, specifically code RMS 5.2 which represents Water Pumping Stations. This reservation allows Water Pumping Stations and related functionalities such as Municipal Office, Municipal Chowky, Municipal Store, and Staff Quarters. Ancillary facilities can include a Canteen, a Dispensary Unit, and a Branch of a Bank. Development is subject to conditions 1, with Zb=10.
+14. **Reservation for Water Pumping Stations (Municipal Services - RMS 5.2)**:
+   - Permissible Uses: Water Pumping Stations, including Municipal Office, Municipal Chowky, Municipal Store, and Staff Quarters.
+   - Ancillary Activities: Canteen, Dispensary Unit, Branch of a Bank.
+   - Development Conditions: Corporation or Authorities may oversee development , Maximum 10% of built-up area for ancillary uses .
 
 
 
-The 15th reservation is also under Municipal Services (RMS 5.3) and refers to Water Treatment Plants which can include a Water Treatment Facility, Allied Services, Municipal Chowky, Municipal Store, Municipal Office, and Staff Quarters. Ancillary functions can incorporate a Canteen, a Dispensary Unit, and a Branch of a Bank. The applicable conditions for development are 1, with Zb=10.
+15. **Reservation for Water Treatment Plant (Municipal Services - RMS 5.3)**:
+   - Permissible Uses: Water Treatment Facility and Allied Services, including Municipal Chowky, Municipal Store, Municipal Office, Staff Quarters.
+   - Ancillary Activities: Canteen, Dispensary Unit, Branch of a Bank.
+   - Development Conditions: Corporation or Authorities may oversee development , Maximum 10% of built-up area for ancillary uses .
 
+16. **Reservation for Storm Water Pumping Station (Municipal Services - RMS 6.1)**:
+   - Permissible Uses: Storm Water Pumping Station.
+   - Development Conditions: Corporation or Authorities may oversee development , Maximum 10% of built-up area for ancillary uses .
 
+17. **Reservation for State Transport Depot (Transport - RT 1.2)**:
+   - Permissible Uses: State Transport Depot, including Tracks for Vehicle Testing, Regional Transport Office, Staff Quarters, Canteen.
+   - Ancillary Activities: Branch of a bank.
+   - Development Conditions: Corporation or Authorities may oversee development , Maximum 10% of built-up area for ancillary uses .
 
-Entry number 16 relates to Municipal Services under code RMS 6.1, indicating Storm Water Pumping Stations. Only the Storm Water Pumping Station is the permissible use under this reservation which requires adherence to condition 1, with Zb=10. 
+18. **Reservation for Water Transport Terminal (Transport - RT 2.1)**:
+   - Permissible Uses: Water Transport Station Parking Lot for Public, Bus Stops, Sheds, Helipads, Repairing Facilities, Rickshaw and Taxi Parking.
+   - Ancillary Activities: Canteen, ATM of bank, other ancillary uses with facilities for staff and visitors.
+   - Development Conditions: Corporation or Authorities may oversee development , Maximum 15% of built-up area for ancillary uses .
 
+19. **Reservation for Jetty (Transport - RT 2.2)**:
+   - Permissible Uses: Jetty, including Office, Parking, Emergency Medical Centre.
+   - Ancillary Activities: Other ancillary uses with facilities for staff and visitors.
+   - Development Conditions: Corporation or Authorities may oversee development , Maximum 15% of built-up area for ancillary uses .
 
-
-For the category of Transport under code RT 1.2 (17th reservation), a State Transport Depot is permitted. This can include Tracks for Vehicle Testing, a Regional Transport Office, Staff Quarters, and a Canteen. A Branch of a Bank is also allowed as an ancillary activity. The necessary conditions to be met for this development are 1 and Zb=10.
-
-
-
-Reservation number 18 comes under Transport (code RT 2.1) and allows a Water Transport Terminal. Permissible uses include Water Transport Station, Public Parking Lot, Bus Stops, Sheds, Helipads, Repairing Facilities, Rickshaw and Taxi Parking. Ancillary uses can incorporate a Canteen, an ATM of Bank, and other staff and visitor facilities. Applicable conditions are 1 and Zb=15.
-
-
-
-The 19th reservation also applies to the Transport sector (code RT 2.2), and encompasses Jetties. This can involve Office facilities, Parking, Emergency Medical Centre along with the Jetty itself. Additional facilities for staff and visitors are also allowed under this premises. The conditions to be met for this development are 1 and Zb=15.
-
-
-
-For the 20th entry, it falls under the Transport category, with the code RAM representing Reservation Amenity. This includes Social, Education, and Health services & facilities as determined by the Municipal Commissioner considering ward deficiency/Amenities from appropriate authorities. The applicable condition for these premises is 1.
-
+20. **Reservation for RAM (Transport - RAM)**:
+   - Permissible Uses: Social/Education/Health services & facilities as decided by Municipal Commissioner considering deficiency in Amenity in ward/Appropriate Authorities.
+   - Development Conditions: Corporation or Authorities may oversee development .
 
 
 ## Table 5: Reservation Development Specifications for the Intended Purposes under AR
 
 
 
-In table 5, the 1st reservation comes under the main category RE 1.1 labeled as Municipal School. The Users Permitted for Permissible Uses are varied and cover Primary school, Secondary School, Higher Secondary School, High School, College, Integrated School with hostel, Pre-School Centre, Nursery, Auditorium, art and culture related users, other educational/permitted uses including Aadhar Kendra with skill development center, Yogalaya, welfare centre. Ancillary activities can include non-educational compatible uses like a Branch of a Bank, Stationary Shop, Dispensary, and Canteen. The applicable conditions for development are 1 or 2 or 3, with Zb=10 and additional criteria in the case of condition 3: X=50, 3 b) Y=50.
+1. **Reservation for Municipal School (RE 1.1)**:
+   - **Permissible Uses**: Primary school, Secondary School, Higher Secondary School, High School, College, Integrated School with hostel, Pre-School Centre, Nursery or other educational purposes, Auditorium, art and culture related uses. After principal hours, additional uses include Aadhar Kendra with skill development center, Yogalaya, welfare centre.
+   - **Ancillary Activities**: Non-educational compatible uses such as branch of a Bank, Stationary Shop, Dispensary, Canteen.
+   - **Development Conditions**: Corporation or Authorities may oversee development , or Owner develops for intended purpose . If the Owner is allowed to develop the reservation on an Accommodation Reservation basis , then the conditions are: Maximum 10% of built-up area for ancillary uses, 50% of development rights at Zonal FSI for built-up amenity , and 50% of reserved plot for built-up amenity to be handed over to MCGM.
 
 
 # Detailed Specifications of Development of Reserved Lands for Public Purposes: Key Criteria and Conditions Under Accommodation Reservation (AR)
@@ -4011,23 +4020,39 @@ The development of reserved land for public purposes, particularly under the Acc
 
 
 
-Under the code RE1.2, the primary and secondary school infrastructures may include establishments like primary school, secondary school, higher secondary school, high school, college, integrated schools with hostel facilities, pre-school centres, nurseries, auditoriums for cultural activities, and after-hours facilities for other permitted educational uses. This may include Aadhar Kendra with a skill development center, Yogalaya, and welfare centres. It also encompasses non-educational compatible operations, such as a bank branch, stationery shop, dispensary, and canteen. Application of 1 or 2 or 3, Zb = 10, and in the case of 3, X = 50, and Y = 50, is permissible.
+2. **Reservation for Primary and Secondary School (RE 1.2)**:
+   - **Permissible Uses**:  Primary school, Secondary School, Higher Secondary School, High School, College, Integrated School with hostel, Pre-School Centre, Nursery, or other educational purposes, Auditorium, art and culture related users. After principal hours, additional uses include Aadhar Kendra with skill development center, Yogalaya, welfare centre.
+   - **Ancillary Activities**:  Non-educational compatible uses such as branch of a Bank, Stationary Shop, Dispensary, Canteen.
+   - **Development Conditions**:  Corporation or Authorities oversee development , or Owner develops for intended purpose . If the Owner is allowed to develop on an Accommodation Reservation basis , the conditions are: Maximum 10% of built-up area for ancillary uses , 50% of development rights at Zonal FSI for built-up amenity , and 50% of reserved plot for built-up amenity to MCGM .
 
 
 
-For the purpose of education under RE 1.3, special school facilities may include hostels, auditoriums, and specific infrastructure for differently-abled individuals. Subsequent uses can include Aadhar Kendra with a skill development center, Yogalaya, and welfare centre. Other uses, such as bank branches, stationery shops, dispensaries, and canteens, are deemed acceptable. Applicable conditions include 1 or 2 or 3 with Zb = 10, X = 50, and Y=50 in case of 3.
+3. **Reservation for Special School (RE 1.3)**:
+   - **Permissible Uses**: Institute for Differently Abled, hostel, or other educational purposes, Auditorium. Facilities for children with special needs such as soft play areas, sensory rooms, or swimming pools necessary for treating students with certain conditions. After principal hours, uses include Aadhar Kendra with skill development centre, Yogalaya, welfare centre.
+   - **Ancillary Activities**: Non-educational compatible uses such as branch of a Bank, Stationary Shop, Dispensary, Canteen.
+   - **Development Conditions**: Corporation or Authorities may oversee development , or Owner develops for intended purpose . If Owner develops on Accommodation Reservation basis , conditions are: Maximum 10% of built-up area for ancillary uses , 50% of development rights at Zonal FSI for built-up amenity , and 50% of reserved plot for built-up amenity to MCGM .
+
+
+4. **Reservation for Higher Education (RE 2.1)**:
+   - **Permissible Uses**: Primary School, High School, Bachelors and higher degree colleges including Technical, Medical, Architecture, Management Institutions with/without hostel, hostel for Girls Student, and other educational purposes. Auditorium and art and cultural related uses allowed. After principal hours, uses include Aadhar Kendra with skill development center, Yogalaya, welfare centre.
+   - **Ancillary Activities**: Sports Center, Gymnasium, Canteen, Banks, Post Office, Dispensary, Shops.
+   - **Development Conditions**: Same as above - Corporation or Authorities oversee development , or Owner develops for intended purpose . If Owner develops on Accommodation Reservation basis , conditions are: Maximum 20% of built-up area for ancillary uses , 50% of development rights at Zonal FSI for built-up amenity , and 50% of reserved plot for built-up amenity to MCGM .
 
 
 
-Under the category of higher education, code RE 2.1, one can establish primary schools, high schools, and higher degree colleges including technical, medical, architecture, and management institutions with or without hostels. Subsequent uses may involve Aadhar Kendra with a skill development center, Yogalaya, and welfare centres. Other sports and educational facilities like gymnasiums, canteens, banks, post offices, dispensaries, and shops are also allowed. The applied conditions are 1 or 2 or 3, Zb = 20, X = 50, and Y = 50 in case of 3.
+
+5. **Reservation for Other Education (RE 3.1)**:
+   - **Permissible Uses**: Primary School, Secondary School, Higher Secondary School, High School, College, Integrated School, General College, Vocational Training Institutes, Training Centre, Industrial Training Institute, etc.
+   - **Ancillary Activities**: Sports Center, Gymnasium, Canteen, Banks, Post Office, Dispensary, Shops.
+   - **Development Conditions**: Corporation or Authorities may oversee development , or Owner develops for intended purpose . If the Owner is allowed to develop the reservation on an Accommodation Reservation basis , then the conditions are: Maximum 20% of built-up area for ancillary uses . In case of option 3a, 50% of development rights at Zonal FSI for built-up amenity , and in case of option 3b, 50% of reserved plot for built-up amenity to be handed over to MCGM .
 
 
 
-The code RE 3.1 encompasses other areas of education, primary schools, secondary schools, higher secondary schools, high schools, colleges, integrated schools, general colleges, vocational training institutes, and training centres. Among the permitted after-school uses, there are sports centres, gymnasia, canteens, banks, post offices, dispensaries, and shops, with applicable conditions as 1 or 2 or 3, Zb = 20, X = 50, Y = 50 in case of 3.
 
-
-
-The Urban Planning Institute falls under code RE 4.1. Permitted users include urban planning, environmental planning, and related institutes regarding transportation, housing, public policy, infrastructure planning, GIS, and geography with or without hostel facilities. Ancillary activities are sports centres, gymnasia, canteens, banks, post offices, dispensaries, and shops, with applicable conditions being 1 or 2 or 3, Zb = 20, X = 50, and Y = 50 in specific cases.
+6. **Reservation for Urban Planning Institute (RE 4.1)**:
+   - **Permissible Uses**: Urban Planning, Environmental Planning and other related Institutes such as Transportation, Housing, Public Policy, Infrastructure Planning, GIS, and Geography, with or without hostel facilities and art and culture related uses.
+   - **Ancillary Activities**: Sports Center, Gymnasium, Canteen, Banks, Post Office, Dispensary, Shops.
+   - **Development Conditions**: Corporation or Authorities may oversee development , or Owner develops for intended purpose . If Owner develops on Accommodation Reservation basis , then conditions are: Maximum 20% of built-up area for ancillary uses , 50% of development rights at Zonal FSI for built-up amenity , and 50% of reserved plot for built-up amenity to MCGM .
 
 
 # Section 17(1): Conditions for Developing Reserved Land for Public Purposes under Accommodation Reservation (AR)
@@ -4038,31 +4063,41 @@ In the context of accommodating reserved land for public purposes, certain condi
 
 
 
-- Sr No 7 outlines the provisions for RE 4.2: Medical Institutes. These institutes, defined by the Medical Council of India, may include facilities with or without hostels. Besides, they might comprise art and cultural related uses. Ancillary facilities that can be included are Sports Centers, Gymnasiums, Canteens, Banks, Post Offices, Dispensaries, Shops. The development conditions are either option 1, 2, or 3, 'Zb = 20.' For case 3a), 'X=50' and for case 3b), 'Y=50.'
+7. **Reservation for Medical Institute (RE 4.2)**:
+   - **Permissible Uses**: Institutes for Medical Education as defined by the Medical Council of India, with or without hostel facilities, and art and cultural related uses.
+   - **Ancillary Activities**: Sports Center, Gymnasium, Canteen, Banks, Post Office, Dispensary, Shops.
+   - **Development Conditions**:  Corporation or Authorities oversee development , or Owner develops for intended purpose . If Owner develops on Accommodation Reservation basis , then conditions are: Maximum 20% of built-up area for ancillary uses , 50% of development rights at Zonal FSI for built-up amenity , and 50% of reserved plot for built-up amenity to MCGM .
+
+8. **Reservation for Financial Institute (RE 4.3)**:
+   - **Permissible Uses**: Institutes devoted to the study of Financial, Economics, and related fields, with or without hostel facilities, and art and culture related uses.
+   - **Ancillary Activities**: Sports Center, Gymnasium, Canteen, Banks, Post Office, Dispensary, Shops.
+   - **Development Conditions**: Corporation or Authorities oversee development , or Owner develops for intended purpose . If Owner develops on Accommodation Reservation basis , then conditions are: Maximum 20% of built-up area for ancillary uses , 50% of development rights at Zonal FSI for built-up amenity , and 50% of reserved plot for built-up amenity to MCGM .
 
 
 
-- Sr No 8 details the conditions for RE 4.3: Financial Institutes. Such institutes devoted to the studies of Finance, Economics, and similar fields can have hostels. Art and cultural uses are also permitted. Sports Centers, Gymnasiums, Canteens, Banks, Post Offices, Dispensaries, Shops are permissible ancillary facilities. Development conditions are stated as either option 1, 2, or 3, 'Zb = 20'. If it's under condition 3a), 'X=50,' and for 3b), 'Y=50'.
+9. **Reservation for Other Institutes (RE 4.4)**:
+   - **Permissible Uses**: Institutes for Art, Culture, Fine Arts, Social education with or without hostel facilities, and art and culture related uses, including Research & Testing Laboratories.
+   - **Ancillary Activities**: Sports Center, Gymnasium, Canteen, Banks, Post Office, Dispensary, Shops.
+   - **Development Conditions**: Corporation or Authorities may oversee development , or Owner develops for intended purpose . If Owner develops on Accommodation Reservation basis , conditions are: Maximum 20% of built-up area for ancillary uses , 50% of development rights at Zonal FSI for built-up amenity , and 50% of reserved plot for built-up amenity to MCGM .
+
+10. **Reservation for Municipal Dispensary/Health Post (RH 1.1)**:
+   - **Permissible Uses**: Dispensary, Health Post, Urban Primary Health Centre, Urban Community Health Centre, Pathology Lab, Physiotherapy, etc.
+   - **Ancillary Activities**: Nurses Quarter, Post-Partum center, Recovery centers, Generic Medicine dispensing facility, Medical Stores/Shops, Public toilet facilities.
+   - **Development Conditions**: Corporation or Authorities may oversee development , or Owner develops for intended purpose . If Owner develops on Accommodation Reservation basis , conditions are: Maximum 30% of built-up area for ancillary uses , 50% of development rights at Zonal FSI for built-up amenity , and 40% of reserved plot for built-up amenity to MCGM .
+
+11. **Reservation for Hospital (RH 1.2)**:
+   - **Permissible Uses**: Hospital, Dispensary, Maternity Home, Municipal Health Facility, Diagnostic Centre, Rehabilitation Centre, Peripheral/General Hospital, Specialty Hospital, Multi-specialty/Tertiary Hospital, Peripheral/Intermediate Hospital, Dharmashala.
+   - **Ancillary Activities**: Nurses and other staff Quarters, Caretaker Shelters, Generic Medicine dispensing facility. Commercial uses such as Branch of a bank, Medical Stores/Shops, Public toilet facilities capped at 10% of the Zonal (basic) or 5% of permissible FSI, whichever is more.
+   - **Development Conditions**:  Corporation or Authorities oversee development , or Owner develops for intended purpose . If Owner develops on Accommodation Reservation basis , conditions are: Maximum 30% of built-up area for ancillary uses , 50% of development rights at Zonal FSI for built-up amenity , and 40% of reserved plot for built-up amenity to MCGM .
 
 
 
-- Sr No 9 lays down the conditions for RE 4.4: Other Institutes. Such institutes, catering to Art, Culture, Fine Arts, Social education can host different art and culture related uses, and Research & Testing Laboratories. Ancillary facilities include Sports Centers, Gymnasiums, Canteens, Banks, Post Offices, Dispensaries, Shops. Similar development conditions as before apply, 'Zb = 20,' and 'X=50' or 'Y=50' in the case of 3a) and 3b), respectively.
 
 
-
-- Sr No 10 highlights the conditions for RH 1.1: Municipal Dispensary/Health Post. This category includes Dispensary, Health Post, Urban Primary Health Centre, Urban Community Health Center, Pathology Lab, and Physiotherapy centers. Permitted ancillary uses include Nurses Quarter Post-Partum center, Recovery centers, Generic Medicine dispensing facility, Medical Stores/Shops, Public toilet facilities. The applicable conditions for development are options '1 or 2 or 3', with 'Zb = 30.' In case of 3a), 'X=50' and for 3b), 'Y=40'.
-
-
-
-- Sr No 11 defines the conditions for RH 1.2: Hospital. This category comprises various health institutions, from hospitals, dispensaries, maternity homes to specialty and tertiary hospitals. Ancillary facilities such as nurses and other staff quarters, caretaker shelters, and medical stores/shops are allowed. The commercial uses built-up area should not exceed 10% of the Zonal (basic) or 5% of permissible FSI. The conditions for development are '1 or 2 or 3', with 'Zb = 30.' In case of 3a), 'X=50' and for 3b), 'Y=40'.
-
-
-
-Continuing from the table, we have:
-
-
-
-- Sr No 12 covering RH 1.3: Municipal Maternity Home. This category considering Maternity Hospitals, Dispensaries, Post-Partum Centers, Recovery Centers, Rehabilitation Centers, and Physiotherapy facilities. Ancillary facilities like Nurses and other staff Quarters, Care taker Shelters for staff, Medical Stores/Shops, and Public toilet facilities are permitted, provided they do not exceed 10% of the Zonal(basic) FSI. The development conditions note '1 or 2 or 3', with 'Zb = 30.' For case 3a), 'X=50' and for 3b), 'Y=40'.
+12. **Reservation for Municipal Maternity Home (RH 1.3)**:
+   - **Permissible Uses**: Maternity Hospital, Dispensary, Post-Partum Centre, Recovery Centre, Rehabilitation Centre, Physiotherapy Centre.
+   - **Ancillary Activities**: Nurses and staff Quarters, Caretaker Shelters, Generic Medicine dispensing facility. Commercial uses like Medical Stores/Shops & Public toilet facilities capped at 10% of Zonal (basic) FSI.
+   - **Development Conditions**: Corporation or Authorities oversee development , or Owner develops for intended purpose . If Owner develops on Accommodation Reservation basis , conditions are: Maximum 30% of built-up area for ancillary uses , 50% of development rights at Zonal FSI for built-up amenity , 40% of reserved plot for built-up amenity to MCGM .
 
 
 # Detailed Information on Developing Reserved Land for Public Purposes under the Accommodation Reservation (AR) condition
@@ -4073,23 +4108,34 @@ Continuing from the table, we have:
 
 
 
-For the Rehabilitation Centre (RH 3.1), these premises include the Rehabilitation Centre itself, Dispensary, Health Post, Physiotherapy Centre Sanitarium, Hospiceetc. Additional facilities include quarters for Nurses and other staff, a Generic Medicine dispensing facility, Commercial uses such as Medical Stores/Shops, and Public toilet facilities. The applicable conditions for development are 1 or 2 or 3 with Zb=20, X=50 in the 3a case, and Y=40 in the 3b case.
+13. **Reservation for Rehabilitation Centre (RH 3.1)**:
+   - **Permissible Uses**: Rehabilitation Centre, Dispensary, Health Post, Physiotherapy Centre, Sanitarium, Hospice, etc.
+   - **Ancillary Activities**: Nurses and other staff Quarters, Generic Medicine dispensing facility. Commercial uses like Medical Stores/Shops & Public toilet facilities.
+   - **Development Conditions**: Corporation or Authorities may oversee development , Maximum 20% of built-up area for ancillary uses . If the Owner develops on Accommodation Reservation basis : 50% of development rights at Zonal FSI for built-up amenity , and 40% of reserved plot for built-up amenity to MCGM .
+
+14. **Reservation for Veterinary Hospital (RH 3.4)**:
+   - **Permissible Uses**: Veterinary Hospital.
+   - **Ancillary Activities**: Compatible uses, Medical Stores/Shops.
+   - **Development Conditions**: Corporation or Authorities may oversee development , Maximum 20% of built-up area for ancillary uses . If the Owner develops on Accommodation Reservation basis : 50% of development rights at Zonal FSI for built-up amenity , and 40% of reserved plot for built-up amenity to MCGM .
+
+15. **Reservation for Play Ground/PG (Public Open Spaces - ROS 1.4)**:
+   - **Permissible Uses**: Play Ground.
+   - **Ancillary Activities**: Art and culture related uses, Vipassana/yoga meditation, Watchman cabin, Gardener chowky, toilet block.
+   - **Development Conditions**: Corporation or Authorities may oversee development  or if the Owner develops on Accommodation Reservation basis : 70% of reserved plot for built-up amenity to MCGM  and minimum area of reserved plot shall be 1000 sq. m.
 
 
 
-Similarly, the Veterinary Hospital (RH 3.4) is developed only for one user- the Veterinary hospital. Other compatible uses include Medical Stores and Shops. The same development conditions as RH 3.1 apply here as well.
+16. **Reservation for Garden/Park (Public Open Spaces - ROS 1.5)**:
+   - **Permissible Uses**: Garden, Parks, Botanical Garden, Children's Park with Walking Track, Wooded Areas, Water Body.
+   - **Ancillary Activities**: Art and culture-related uses, Vipassana/yoga meditation, Watchman cabin, Gardener chowky, toilet block.
+   - **Development Conditions**: Corporation or Authorities may oversee development  or if the Owner develops on Accommodation Reservation basis : 70% of reserved plot for built-up amenity to MCGM  and minimum area of reserved plot shall be 1000 sq. m.
 
+## Reservations to be developed for the intended purposes or as per Accommodation Reservation (Table No. 5)
 
-
-Public Open Spaces are divided into three types here. The first one, the Play Ground (ROS 1.4), permits Art and culture related uses, Vipassana/ yoga meditation, Watch man cabin, Gardener chowky, and a toilet block. In terms of development, either condition 1 or 3 applies, and when condition 3 applies, the Y value is 70 with the minimum area of reserved plot being 1000 sq. m.
-
-
-
-The second type is a Garden/Park (ROS 1.5) whose users include Gardens, Parks, Botanical Gardens, Children Parks with Waking Tracks, and Wooded Areas Water Bodies. The users permitted for ancillary activities and development conditions are the same as the Play Ground.
-
-
-
-The third type of Public Open Spaces is a Club/ Gymkhana (ROS 2.1) which includes Club, Gymnasium, Yogalaya, and a swimming pool for permissible uses. The users permitted for ancillary activities and development conditions are the same as the previous types except for condition 3b in which Y=40.
+17. **Reservation for Club or Gymkhana (Public Open Spaces - ROS 2.1)**:
+   - **Permissible Uses**: Club, Gymnasium/Yogalaya, Swimming Pool.
+   - **Ancillary Activities**: Art and culture-related uses, Vipassana/yoga meditation, Watchman cabin, Gardener chowky, toilet block.
+   - **Development Conditions**: Corporation or Authorities may oversee development . If the Owner develops on Accommodation Reservation basis , conditions are: 50% of development rights at Zonal FSI for built-up amenity , and 40% of reserved plot for built-up amenity to MCGM.
 
 
 
@@ -4097,15 +4143,29 @@ The third type of Public Open Spaces is a Club/ Gymkhana (ROS 2.1) which include
 
 
 
-The Sports Complex/Stadium (ROS 2.5) includes facilities for various sports activities, enclosed sports facilities for indoor games, Indian sports facilities, Gymnasium, Swimming Pool, Changing Rooms, and Locker Rooms. The ancillary activities provided are Hostel rooms and welfare activities, social and cultural activities/amenities, watchman’s cabin, gardeners chowky, instrument room, art and culture-related uses, Banks, Restaurants, rest rooms, and Sport Store/Shop. For development, it follows conditions 1 or 2 or 3 with Za=25, Zb=50 in the 3a and 3b case, and Y=70 with a minimum area of reserved plot of 50000 sq. m. when condition 3 applies.
+18. **Reservation for Sports Complex/Stadium (ROS 2.5)**:
+   - **Permissible Uses**: Sports Complex for various or individual sports activities, Enclosed Sports facility for indoor games, Facility for Indian sports, Gymnasium, Swimming Pool, Changing Rooms, Locker Room.
+   - **Ancillary Activities**: Hostel rooms, welfare activities, social and cultural activity/amenities, watchman’s cabin, gardener's chowky, instrument room, Art and culture related uses, Banks, Restaurants, restrooms, Sport Store/Shop.
+   - **Development Conditions**: Corporation or Authorities may oversee development, or Owner develops for intended purpose with Maximum 25% of plot area for ancillary uses and 50% of built-up area for ancillary uses. If Owner develops on Accommodation Reservation basis , conditions are: 70% of reserved plot for built-up amenity to MCGM and minimum area of reserved plot shall be 50000 sq. m.
+
+19. **Reservation for Municipal Staff Quarters (Housing - RR 1.1)**:
+   - **Permissible Uses**: Municipal Staff Quarters, Municipal chowky, Administrative area.
+   - **Development Conditions**: Corporation or Authorities oversee development , or Owner develops on Accommodation Reservation basis  with Maximum 10% of built-up area for ancillary uses, 50% of development rights at Zonal FSI for built-up amenity, and 40% of reserved plot for built-up amenity to MCGM.
 
 
 
-For housing, there are several types which include Municipal Staff Quarters (RR 1.1) that include Municipal Staff Quarters, Municipal chowky, Administrative area; Police Staff Quarters (RR 1.2) specifically dedicated to Police Staff Quarters along with a Police Station; and Government Staff Quarters (RR 1.3) reserved for Govt. Staff Quarters and Administrative Area. All these housing types follow the development conditions 1 or 3 with Zb=10, X=50 in the 3a case, and Y=40 in the 3b case.
+20. **Reservation for Police Staff Quarters (Housing - RR 1.2)**:
+   - **Permissible Uses**: Police Staff Quarters with Police Station.
+   - **Development Conditions**: Corporation or Authorities oversee development , or Owner develops on Accommodation Reservation basis  with Maximum 10% of built-up area for ancillary uses , 50% of development rights at Zonal FSI for built-up amenity , and 40% of reserved plot for built-up amenity to MCGM .
 
+21. **Reservation for Government Staff Quarters (Housing - RR 1.3)**:
+   - **Permissible Uses**: Government Staff Quarters, Administrative Area.
+   - **Development Conditions**: Corporation or Authorities oversee development , or Owner develops on Accommodation Reservation basis  with Maximum 10% of built-up area for ancillary uses , 50% of development rights at Zonal FSI for built-up amenity , and 40% of reserved plot for built-up amenity to MCGM .
 
+22. **Reservation for Municipal Housing (Housing - RR 1.5)**:
+   - **Permissible Uses**: Municipal Housing, Rehabilitation of PAPS.
+   - **Development Conditions**: Corporation or Authorities oversee development , or Owner develops on Accommodation Reservation basis  with Maximum 10% of built-up area for ancillary uses , 50% of development rights at Zonal FSI for built-up amenity , and 40% of reserved plot for built-up amenity to MCGM.
 
-Lastly, the Municipal Housing (RR 1.5) which is reserved for Municipal Housing and Municipal facilities, along with the Rehabilitation of PAPS, follows the same development conditions as the previous housing types except for the absence of condition Zb.
 
 
 # Conditions for Development of Reserved Land under Accommodation Reservation for Public Housing and Certain Utilities
@@ -4116,19 +4176,26 @@ Discussed under the header 'Development of Reserved Land for Public Purposes', t
 
 
 
-- In the public housing sector, reservation number 23 pertains to police housing with a RR 1.6 reservation sub-category code, permitting only police housing. The applicable condition permits either 1 or 3 developments, with a specification of X=50 in case of 3a and Y=40 in case of 3b.
+23. **Reservation for Police Housing (Housing - RR 1.6)**:
+   - **Permissible Uses**: Police Housing.
+   - **Development Conditions**: Corporation or Authorities oversee development , or Owner develops on Accommodation Reservation basis  with Maximum 10% of built-up area for ancillary uses, 50% of development rights at Zonal FSI for built-up amenity, and 40% of reserved plot for built-up amenity to MCGM.
 
+24. **Reservation for Government Housing (Housing - RR 1.7)**:
+   - **Permissible Uses**: Government Housing, Staff Quarters, Guest House/Hostel.
+   - **Development Conditions**: Corporation or Authorities oversee development , or Owner develops on Accommodation Reservation basis  with Maximum 10% of built-up area for ancillary uses, 50% of development rights at Zonal FSI for built-up amenity, and 40% of reserved plot for built-up amenity to MCGM.
 
-- Reservation number 24 under housing accommodates government housing with a RR 1.7 reservation sub-category code, including government housing, staff quarters, and guests house/hostel. The development condition remains the same as police housing.
+25. **Reservation for Rehabilitation & Resettlement (Housing - RR 2.1)**:
+   - **Permissible Uses**: Rehabilitation Tenements.
+   - **Development Conditions**: Corporation or Authorities oversee development , or Owner develops on Accommodation Reservation basis  with Maximum 10% of built-up area for ancillary uses, 50% of development rights at Zonal FSI for built-up amenity, and 40% of reserved plot for built-up amenity to MCGM.
 
+26.**Reservation for Affordable Housing (Housing - RR 2.2)**:
+   - **Permissible Uses**: Affordable Housing.
+   - **Development Conditions**: Corporation or Authorities oversee development , or Owner develops on Accommodation Reservation basis  with Maximum 10% of built-up area for ancillary uses, 50% of development rights at Zonal FSI for built-up amenity, and 40% of reserved plot for built-up amenity to MCGM.
 
-- The rehabilitation and resettlement housing fall under reservation number 25 with the code RR 2.1. These rehabilitation tenements follow the same applicable conditions for development as earlier reservations.
+27. **Reservation for Koli Housing (Housing - RR 3.1)**:
+   - **Permissible Uses**: Koli Housing, Art and Culture related uses.
+   - **Development Conditions**: Corporation or Authorities overseeing development , or Owner developing on Accommodation Reservation basis  with 50% of development rights at Zonal FSI for built-up amenity , and 40% of reserved plot for built-up amenity to MCGM.
 
-
-- Under the reservation number 26 comes affordable housing with code RR 2.2, exclusively permitting only affordable housing. The conditions for its development remain the same.
-
-
-- Koli housing with an art and culture-related usage falls under reservation number 27, providing the code RR 3.1, and carries the common development conditions.
 
 
 
@@ -4136,25 +4203,38 @@ Continuing with the narration of 'Reservations to be developed for the intended 
 
 
 
-- The fire station is marked as reservation number 28 under public utilities and facilities with the code RPU 1.1. This allows the development of fire brigade station, training center, staff quarters, and municipal office under same general conditions, except Y=50 in case of 3b.
+28.**Reservation for Fire Station (RPU 1.1)**:
+   - **Permissible Uses**: Fire Brigade Station, Training Center, Staff Quarters, Municipal Office.
+   - **Development Conditions**: Corporation or Authorities oversee development  or if Owner develops on Accommodation Reservation basis , conditions are: 50% of development rights at Zonal FSI for built-up amenity and 50% of reserved plot for built-up amenity to MCGM.
 
+29.**Reservation for Police Station (RPU 3.1)**:
+   - **Permissible Uses**: Police Station, Police Chowky, Lock Up Facility, Canteen, Toilet Blocks, Rest Rooms, Residential Quarters.
+   - **Ancillary Activities**: Branch of Bank, Bill Payment Kiosk.
+   - **Development Conditions**: Corporation or Authorities oversee development, Maximum 10% of built-up area for ancillary uses. If Owner develops on Accommodation Reservation basis , conditions are: 50% of development rights at Zonal FSI for built-up amenity and 40% of reserved plot for built-up amenity to MCGM.
 
-- The police station falls under reservation 29, housing police station, police chowky, lock up facility, canteen, toilet blocks, rest rooms, residential quarters, and permitting the development of a branch of bank and bill payment kiosk under the same common conditions, with an additional specification of Zb=10.
+30. **Reservation for Police Chowky (RPU 3.2)**:
+   - **Permissible Uses**: Police Chowky, Toilet Blocks, Rest Rooms.
+   - **Development Conditions**: Corporation or Authorities oversee development. If Owner develops on Accommodation Reservation basis , conditions are: 50% of development rights at Zonal FSI for built-up amenity and 40% of reserved plot for built-up amenity to MCGM.
 
+31. **Reservation for Correction Facilities (RPU 3.3)**:
+   - **Permissible Uses**: Jail, Juvenile Home, Police Station, etc.
+   - **Ancillary Activities**: Bank ATM.
+   - **Development Conditions**: Corporation or Authorities oversee development , Maximum 10% of plot area for ancillary uses, Maximum 10% of built-up area for ancillary uses. If Owner develops on Accommodation Reservation basis, conditions are: 50% of development rights at Zonal FSI for built-up amenity and 40% of reserved plot for built-up amenity to MCGM.
 
-- Police chowky is designated as reservation 30 with code RPU 3.2, allowing the development of police chowky, toilet blocks, and rest rooms.
+32. **Reservation for Police Facilities (RPU 3.4)**:
+   - **Permissible Uses**: Police Station, Police Chowky, Lockup Facility, Canteen, Toilet Blocks, Rest Rooms, Residential Quarters, Marching Ground, Court, Fuel Station for Police Facilities.
+   - **Ancillary Activities**: Canteen, Branch of a Bank, Stationary Shop, Meeting Rooms for Lawyers, Photocopying Shop.
+   - **Development Conditions**: Corporation or Authorities oversee development, Maximum 10% of built-up area for ancillary uses, subject to NOC from Law and Judiciary Department. If Owner develops on Accommodation Reservation basis , conditions are: 50% of development rights at Zonal FSI for built-up amenity and 40% of reserved plot for built-up amenity to MCGM.
 
+33. **Reservation for Courts (RPU 3.5)**:
+   - **Permissible Uses**: Court, with other uses such as Library, Canteen, Meeting Rooms for Lawyers, Administrative Office, Judicial Quarters.
+   - **Ancillary Activities**: Branch of a Bank, Stationary Shop, Cafeteria, Photocopying Shop, Bookstore.
+   - **Development Conditions**: Corporation or Authorities oversee development , Maximum 10% of built-up area for ancillary uses . Subject to NOC from Law and Judiciary Department, ff Owner develops on Accommodation Reservation basis , conditions are: 50% of development rights at Zonal FSI for built-up amenity  and 40% of reserved plot for built-up amenity to MCGM .
 
-- Correction facilities like jails, juvenile homes, and police stations, etc, are denoted as reservation 31 under RPU 3.3, allowing an additional ATM's installation, with Za=10 and Zb=10 added to the common condition.
-
-
-- Police facilities fall under reservation 32 represented by code RPU 3.4, permitting a variety of developments such as canteen, branch of a bank, stationary shop, meeting rooms for lawyers, and photocopying shop with an additional requirement of NOC from Law and Judiciary Department.
-
-
-- Courts and related facilities are denoted reservation 33 under RPU 3.5, enabling various developments and complementing facilities such as branch of a bank, stationary shop, cafeteria, photocopying shop, and bookstore.
-
-
-- The post & telegraphic office is categorized as reservation 34, with code RPU 4.1, accommodates facilities like ATM of a Bank, Information Kiosk, CFC, police chowky, electric/telephone bill payment center etc under a condition of Zb=10 added to the common applicable conditions for development.
+34. **Reservation for Post & Telegraphic Office (RPU 4.1)**:
+   - **Permissible Uses**: Post & Telegraphic Office, with other uses such as Staff Quarters.
+   - **Ancillary Activities**: ATM of a Bank, Information Kiosk, CFC, Police Chowky, Electric/Telephone Bill Payment Center, etc.
+   - **Development Conditions**: Corporation or Authorities oversee development , Maximum 10% of built-up area for ancillary uses . If Owner develops on Accommodation Reservation basis , conditions are: 50% of development rights at Zonal FSI for built-up amenity  and 40% of reserved plot for built-up amenity to MCGM .
 
 
 ## Section 17(1) -The Conditions for the Development of Reserved Land for Public Purposes under Accommodation Reservation (AR)
@@ -4165,7 +4245,10 @@ In the context of reserved land development for public purposes under 'Accommoda
 
 
 
-1. For an Electricity Transmission & Distribution Facility, which falls under the category of Public Utilities & Facilities with the sub-category code RPU 5.2, the permissible users include Sub Station, Receiving station, Bill Collection Centres, and Administrative Offices. Ancillary Activities include Emergency/essential staff quarters. The applicable conditions for development are 1 or 3, with Zb=20, and in the case of 3a) X=50 and 3b) Y=40. The minimum area of a reserved plot must be 1000 sq.m.
+35. **Reservation for Electricity Transmission & Distribution Facility (RPU 5.2)**:
+   - **Permissible Uses**: Substation, Receiving Station, Bill Collection Centres, Administrative Office.
+   - **Ancillary Activities**: Emergency/Essential Staff Quarters.
+   - **Development Conditions**: Corporation or Authorities oversee development , Maximum 20% of built-up area for ancillary uses ). If Owner develops on Accommodation Reservation basis , conditions are: 50% of development rights at Zonal FSI for built-up amenity  and 40% of reserved plot for built-up amenity to MCGM  with minimum area of reserved plot shall be 1000 sq. m.
 
 
 
@@ -4173,31 +4256,39 @@ Continuing with Reservations under 'Accommodation Reservation':
 
 
 
-2. Under the main category of Public Utilities & Facilities with the sub-category code RPU 6.1, a Service Industrial Estate permits Service industrial users, along with shop/ commercial user allowed in the Service Industrial Estate. The applicable conditions for development are 1 or 3, where in case of 3a) X=50, and 3b) Y=40.
+36. **Reservation for Service Industrial Estate (RPU 6.1)**:
+   - **Permissible Uses**: Service industrial users, shop/commercial user permitted in service industrial Estate.
+   - **Development Conditions**: Corporation or Authorities oversee development  or if Owner develops on Accommodation Reservation basis , conditions are: 50% of development rights at Zonal FSI for built-up amenity  and 40% of reserved plot for built-up amenity to MCGM .
 
+37. **Reservation for Municipal Office (RO 1.3)**:
+   - **Permissible Uses**: Municipal Office, with other uses such as Staff Quarters, Disaster Management Facility.
+   - **Ancillary Activities**: ATM of a Bank, Information Kiosk, CFC, Police Chowky, Electric/Telephone Bill Payment Center, Public Toilet Block.
+   - **Development Conditions**: Corporation or Authorities oversee development , Maximum 10% of built-up area for ancillary uses . If Owner develops on Accommodation Reservation basis , conditions are: 50% of development rights at Zonal FSI for built-up amenity  and 40% of reserved plot for built-up amenity to MCGM .
 
+38. **Reservation for Government Office (RO 2.1)**:
+   - **Permissible Uses**: Government Office, with other uses such as Staff Quarters.
+   - **Ancillary Activities**: ATM of a Bank, Information Kiosk, CFC, Police Chowky, Electric/Telephone Bill Payment Center, etc.
+   - **Development Conditions**: Similar to RO 1.3.
 
-3. A Municipal Office (RO 1.3), categorized under Public Offices, accommodates Municipal Office along with any other usable areas like Staff Quarters, and a Disaster Management Facility. Ancillary activities can include an ATM of a Bank, an Information Kiosk, CFC, police chowky, electric/telephone bill payment center, and a Public toilet block.
+39. **Reservation for Disaster Management Facility (RO 3.1)**:
+   - **Permissible Uses**: Administrative Office, Storage Facility for Materials/Goods, Fire Station, Medical Aid, Ancillary/Training Centre for Disaster Management/Municipal/Govt. Office/Home Guard Station & Facilities thereof.
+   - **Ancillary Activities**: Canteen, Dispensary, ATM, Public Toilet Facilities.
+   - **Development Conditions**: Same as RO 1.3 and RO 2.1.
 
+40. **Reservation for Municipal Market with Vending Zone (RSA 1.1)**:
+   - **Permissible Uses**: Markets for Fruits and Vegetables, Flowers, Fish, Weekly Markets, Organized Informal Market and Shops for Rehabilitation of PAP's (Min. 15% vending area, of which 50% for women).
+   - **Ancillary Activities**: Municipal Office, Police Chowky, Drama Theatre, Reading Rooms, Branch of Bank, Refuse Shed, Public Toilet Facilities.
+   - **Development Conditions**: Corporation or Authorities oversee development , Maximum 30% of built-up area for ancillary uses. If Owner develops on Accommodation Reservation basis , conditions are: 50% of development rights at Zonal FSI for built-up amenity  and 50% of reserved plot for built-up amenity to MCGM .
 
+41. **Reservation for Retail Market with Vending Zone (RSA 1.2)**:
+   - **Permissible Uses**: Markets for Fruits and Vegetables, Flowers, Fish and Shops for Rehabilitation of PAP's (Min. 15% vending area, of which 50% for women).
+   - **Ancillary Activities**: Reading Rooms, Branch of Bank, Public Toilet Facilities.
+   - **Development Conditions**: Corporation or Authorities oversee development , Maximum 20% of built-up area for ancillary uses ). If Owner develops on Accommodation Reservation basis , conditions are: 50% of development rights at Zonal FSI for built-up amenity  and 50% of reserved plot for built-up amenity to MCGM .
 
-4. Government Offices (RO 2.1) can accommodate a Government Office along with any other usable areas, including Staff Quarters. Ancillary activities can comprise an ATM of a Bank, Information Kiosk, CFC, police station, electric/ telephone bill payment center, etc.
-
-
-
-5. Disaster Management Facilities (RO 3.1) primarily includes an Administrative Office, Storage facility for materials/goods, Fire Station, Medical aid, and any ancillary/Training Centre for Disaster Management/ Municipal/Govt. office/Home guard station & facilities thereof. The facility can also contain a Canteen, dispensary, ATM, and Public toilet facilities.
-
-
-
-6. A Municipal Market with a Vending Zone (RSA 1.1) includes markets for fruits and vegetables, flowers, fish, weekly Markets, Organized informal Markets, and Shops for Rehabilitation of PAP's if needed. Ancillary spaces can include a Municipal office, Police chowky, Drama theatre, reading rooms, a Branch of Bank, a Refuse shed, and Public toilet facilities.
-
-
-
-7. Retail Market with a Vending Zone (RSA 1.2) caters to markets for fruits and vegetables, flowers, fish, and shops for Rehabilitation of PAP's if needed.
-
-
-
-8. A Multi-Purpose Community Centre (RSA 2.1) can house a Community Centre, Student Hostel, Dormitories, Library, Reading Rooms, Study Rooms for Students, Public toilets, Community hall, and exhibition hall. It can also cater to ancillary activities related to art and culture, Banks, Restaurants, bill payment kiosks, and a Citizen Facilitation Centre.
+42. **Reservation for Multi-Purpose Community Centre (RSA 2.1)**:
+   - **Permissible Uses**: Community Centre, Student Hostel, Dormitories, Library, Reading Rooms, Study Rooms for Students, Public Toilets, Community Hall, Exhibition Hall.
+   - **Ancillary Activities**: Art and Cultural Related Users, Banks, Restaurants, Bill Payment Kiosk, Citizen Facilitation Centre.
+   - **Development Conditions**: Corporation or Authorities oversee development , Maximum 30% of built-up area for ancillary uses ). If Owner develops on Accommodation Reservation basis , conditions are: 50% of development rights at Zonal FSI for built-up amenity  and 50% of reserved plot for built-up amenity to MCGM .
 
 
 
@@ -4215,69 +4306,97 @@ In the context of developing lands set aside for public uses under Accommodation
 
 
 
-##### Continued Description of Reservation Categories and Subcategories for Accommodation Reservation in Table 5
-
-
-
-43. Within the main category of Social Amenities (Reservation code: RSA 2.7), Student Hostels including quarters for faculty and staff are permitted for primary uses. In terms of ancillary activities, these may include other non-educational compatible uses such as a dispensary, canteen, or a branch of a bank. The applicable conditions for development are either 1, 2, or 3 with Zb equaling 30. In the case of condition 3, X equals 50 and Y equals 50.
-
-
-
-44. For the Reservation Sub Category of Homeless Shelter (Reservation code: RSA 2.9) under the overarching category of Social Amenities, permissible uses include Night Shelters, Homes for the Destitute, and Dormitories equipped with toilet and other ancillary facilities. Ancillary activities can include a dispensary or a watchman's cabin. The development conditions are similar to the previous, either 1, 2, or 3, with a Zb of 10. In the case of condition 3, X equals 50 and Y equals 50.
-
-
-
-45. Under the umbrella of Social Amenities, the Cultural Centre/Drama Theatre (Reservation code: RSA 3.3) subcategory permits cultural centres, drama theatres, open-air theatres, art galleries, and aquariums among others. Ancillary activities can encompass recording rooms, dubbing rooms, restaurants, cafes, reading halls, libraries, and hostel rooms for artists. Applicable development conditions are 1, 2, or 3; with a Zb of 30. If condition 3 applies, both X and Y equal 50.
-
-
-
-(Continue with the remaining lines in similar fashion...)
 
 
 
 
+43. **Reservation for Students Hostel (RSA 2.7)**:
+   - **Permissible Uses**: Students Hostel including quarters for faculty and staff.
+   - **Ancillary Activities**: Other noneducational compatible uses such as branch of a Bank, Stationary Shop, Dispensary, Canteen.
+   - **Development Conditions**: Corporation or Authorities may oversee development , Maximum 30% of built-up area for ancillary uses ). If the Owner develops on Accommodation Reservation basis , conditions are: 50% of development rights at Zonal FSI for built-up amenity  and 50% of reserved plot for built-up amenity to MCGM .
 
-# Detailed Conditions for Development of Reserved Land under Accommodation Reservation (code 17.1)
+44. **Reservation for Homeless Shelter (RSA 2.9)**:
+   - **Permissible Uses**: Night Shelter, Home for Destitute, Dormitory with toilet facility & other ancillary Facility.
+   - **Ancillary Activities**: Dispensary, Watchman's cabin.
+   - **Development Conditions**: Corporation or Authorities may oversee development , Maximum 10% of built-up area for ancillary uses . If the Owner develops on Accommodation Reservation basis , conditions are: 50% of development rights at Zonal FSI for built-up amenity  and 50% of reserved plot for built-up amenity to MCGM .
+
+45.  **Reservation for Cultural Centre/Drama Theatre/Theater (RSA 3.3)**:
+   - **Permissible Uses**: Cultural Centre, Drama Theatre, Open Air Theatre, Art Gallery, Aquarium, Auditorium, along with other uses if any such as restroom, make-up room, welfare activity center, Parking Lot.
+   - **Ancillary Activities**: Recording rooms, dubbing rooms, restaurant, café, Reading halls, Library, hostel rooms for artists.
+   - **Development Conditions**: Corporation or Authorities may oversee development , Maximum 30% of built-up area for ancillary uses ). If the Owner develops on Accommodation Reservation basis , conditions are: 50% of development rights at Zonal FSI for built-up amenity  and 50% of reserved plot for built-up amenity to MCGM .
+
+
+
+# Detailed Conditions for Development of Reserved Land under Accommodation Reservation- 17(1)
 
 
 
 ## Conditions for the Development of Specific Properties under Accommodation Reservation
 
+46. **Reservation for Museum (RSA 3.5)**:
+   - **Permissible Uses**: Museum, Art Gallery, Exhibition Hall, Display Hall.
+   - **Ancillary Activities**: Auditorium, Drama Theatre.
+   - **Development Conditions**: Corporation or Authorities may oversee development , Maximum 30% of built-up area for ancillary uses ). If the Owner develops on Accommodation Reservation basis , conditions are: 50% of development rights at Zonal FSI for built-up amenity  and 50% of reserved plot for built-up amenity to MCGM .
+
+47. **Reservation for Art Gallery (RSA 3.6)**:
+   - **Permissible Uses**: Art and cultural facilities.
+   - **Ancillary Activities**: Public Toilet facilities, ATM.
+   - **Development Conditions**: Corporation or Authorities may oversee development , Maximum 10% of built-up area for ancillary uses . If the Owner develops on Accommodation Reservation basis , conditions are: 50% of development rights at Zonal FSI for built-up amenity  and 50% of reserved plot for built-up amenity to MCGM .
+
+48. **Reservation for Leisure Park (RSA 3.7)**:
+   - **Permissible Uses**: Garden, Semi Open areas, Food stalls with temporary roofing facility, Food courts with temporary roofing facility, Open spaces, Children play area, Art display area, Cultural spaces, Amphitheaters, water sports facilities, etc.
+   - **Ancillary Activities**: Watchman cabin, Gardener chowky, Public toilet facilities.
+   - **Development Conditions**: Corporation or Authorities may oversee development  or if the Owner develops on Accommodation Reservation basis , conditions are: 70% of reserved plot for built-up amenity to MCGM .
+
+49. **Reservation for Cemetery (RSA 4.8)**:
+   - **Permissible Uses**: Cemetery, Cremation Ground, Burial Ground, Electric/Gas/Diesel/Petrol Cremation Unit, Pyre shed.
+   - **Ancillary Activities**: Storage for Wood, Facilities for Mourners, For Performing Rituals, Prayer Hall, Religious Facility, Water Body, etc.
+   - **Development Conditions**: Corporation or Authorities may oversee development  or if the Owner develops on Accommodation Reservation basis , conditions are: Maximum 15% of built-up area for ancillary uses , 70% of reserved plot for built-up amenity to MCGM  and minimum area of reserved plot shall be 1000 sq.m.
+
+50. **Reservation for Old Age Home (RSA 4.9)**:
+   - **Permissible Uses**: Dormitories, Health Clinic, Canteen, Recreational Area, Office, Day Care Centre For Elders, Geriatric Care Centre, Activity Room, Day Care for Children.
+   - **Ancillary Activities**: Branch of a bank, ATM, shops, Dispensary.
+   - **Development Conditions**: Corporation or Authorities oversee development , or the Owner is allowed to develop the reservation on an Accommodation Reservation basis . In this case: Maximum 30% of built-up area for ancillary uses, 50% of development rights at Zonal FSI for built-up amenity , and 50% of reserved plot for built-up amenity to MCGM .
+
+51. **Reservation for MultiPurpose housing for working Women (RSA 5.2)**:
+   - **Permissible Uses**: Hostel, Dormitories, and guest rooms for working women, women in distress, single Women/Student, activity room. Balwadi, Day Care for children, Old Age people, Counseling Centre, Care centre (not more than 10% of the zonal basic FSI).
+   - **Ancillary Activities**: ATM, shops, Dispensary.
+   - **Development Conditions**: Corporation or Authorities oversee development , or the Owner is allowed to develop the reservation on an Accommodation Reservation basis . In this case: Maximum 10% of built-up area for ancillary uses , 50% of development rights at Zonal FSI for built-up amenity , and 40% of reserved plot for built-up amenity to MCGM .
+
+52. **Reservation for Care Centre (RSA 6.1)**:
+   - **Permissible Uses**: Care centre for Children and Women, Children Play area, Reading area, activity area.
+   - **Ancillary Activities**: ATM, shops, Dispensary.
+   - **Development Conditions**: Corporation or Authorities oversee development , or the Owner is allowed to develop the reservation on an Accommodation Reservation basis . In this case: Maximum 10% of built-up area for ancillary uses , 50% of development rights at Zonal FSI for built-up amenity , and 40% of reserved plot for built-up amenity to MCGM .
+
+53. **Reservation for Adhar Kendra with skill development centre (RSA 6.2)**:
+   - **Permissible Uses**: Women Skill Development Centre & Livelihood Centre, Municipal Purpose.
+   - **Ancillary Activities**: Art and culture related uses, ATM, CFC.
+   - **Development Conditions**: Corporation or Authorities oversee development , or the Owner is allowed to develop the reservation on an Accommodation Reservation basis . In this case: Maximum 10% of built-up area for ancillary uses , 50% of development rights at Zonal FSI for built-up amenity , and 40% of reserved plot for built-up amenity to MCGM .
+
+54. **Reservation for Public Convenience (RSA 6.3)**:
+   - **Permissible Uses**: Public Toilet, Toilet for Women, Rest Rooms, Drinking Water Hubs.
+   - **Development Conditions**: Corporation or Authorities oversee development , or the Owner is allowed to develop the reservation on an Accommodation Reservation basis . In this case: 50% of development rights at Zonal FSI for built-up amenity  and 40% of reserved plot for built-up amenity to MCGM .
+
+55. **Reservation for Road Depot (Municipal Services - RMS 1.1)**:
+   - **Permissible Uses**: Municipal Material Depot, Municipal Labour Chowky, Store, Workshop, Municipal Office.
+   - **Ancillary Activities**: Public Toilet facilities.
+   - **Development Conditions**: Corporation or Authorities oversee development , or the Owner is allowed to develop the reservation on an Accommodation Reservation basis . In this case: 50% of development rights at Zonal FSI for built-up amenity  and 40% of reserved plot for built-up amenity to MCGM .
+
+56. **Reservation for Municipal Chowky (Municipal Services - RMS 1.2)**:
+   - **Permissible Uses**: Municipal Labour Chowky, Material Depot, Store, Workshop, Municipal Office.
+   - **Ancillary Activities**: Public Toilet facilities.
+   - **Development Conditions**: Corporation or Authorities oversee development , or the Owner is allowed to develop the reservation on an Accommodation Reservation basis . In this case: 50% of development rights at Zonal FSI for built-up amenity  and 40% of reserved plot for built-up amenity to MCGM .
+
+57. **Reservation for Municipal Facilities (Municipal Services - RMS 1.3)**:
+   - **Permissible Uses**: Municipal Workshop, Municipal Central Store, Municipal Labour Chowky, Material Depot, Store, Municipal Office.
+   - **Ancillary Activities**: Public Toilet facilities.
+   - **Development Conditions**: Corporation or Authorities oversee development , or the Owner is allowed to develop the reservation on an Accommodation Reservation basis . In this case: 50% of development rights at Zonal FSI for built-up amenity  and 40% of reserved plot for built-up amenity to MCGM .
 
 
-- The reserved land marked as 'Old Age Home' under RSA 4.9 (serial number 50), allows for the construction of dormitories, health clinics, recreational areas, offices, day care centres for elders, geriatric care centres, activity rooms, day care for children along with other uses. It could also accommodate a branch of a bank, ATM, shops, and dispensary. The applicable conditions for development quote 1 or 2 or 3, Zb=10, with specific provisions for 3a) X=50 and 3b) Y=40.
-
-
-
-- The reserved land designated as 'MultiPurpose housing for working Women' under RSA 5.2 (serial number 51), grants space for hostels, dormitories, guest rooms for working women, women in distress, single women/students, old age residents and other amenities not exceeding 10% of the zonal basic FSI. Enterprises like ATM, shops and dispensaries are also permitted. The development is conditioned by 1 or 2 or 3, Zb=10, and in case of 3a) X=50 and 3b) Y=40.
-
-
-
-- The 'Care Centre' under RSA 6.1 (serial number 52), planned land encompasses a care centre for Children and Women, Children Play area, Reading and activity area. Ancillary activities like ATM, shops and dispensary can also be included. The applicable conditions for development are 1 or 2 or 3, Zb=10, and in case of 3a) X=50 and 3b) Y=40.
-
-
-
-- Land reserved for 'Adhar Kendra with skill development centre' under RSA 6.2 (serial number 53), can be developed as Women Skill Development Centre & Livelihood Centre, Municipal Purpose as well as Art and culture related uses, ATM and CFC. The rules for development state 1 or 2 or 3, Zb=10, and in case of 3a) X=50 and 3b) Y=40.
-
-
-
-- The 'Public Convenience' under RSA 6.3 (serial number 54), caters for Public Toilet, Toilet for Women, Rest Rooms, Drinking Water Hubs. The development conditions encompass 1 or 2 or 3, and in case of 3a) X=50 and 3b) Y=40.
-
-
-
-- For the land assigned for 'Road Depot' under RMS 1.1 (serial number 55), Municipal services such as Municipal Material Depot, Municipal Labour Chowky, Store, Workshop, Municipal Office and Public Toilet facilities can be accommodated. The land development conditions specifically apply as 1 or 3, and in case of 3a) X=50 and 3b) Y=40.
-
-
-
-- Land reserved as 'Municipal Chowky' under RMS 1.2 (serial number 56), can serve as Municipal Labour Chowky, Material Depot, Store, Workshop, Municipal Office and Public Toilet facilities. The rules for development state 1 or 3, and in case of 3a) X=50 and 3b) Y=40.
-
-
-
-- Reserved land for 'Municipal Facilities' under RMS 1.3 (serial number 57), accommodates Municipal Workshop, Municipal Central Store Municipal Labour Chowky, Material Depot, Store, Municipal Office and Public Toilet facilities. The applicable conditions for development include 1 or 3, and in case of 3a) X=50 3b) Y=40.
-
-
-
-- The land marked for 'Transport Garage' under RMS 2.1 (serial number 58), permits Transport Garage, Repair Garage, Store, Related Municipal Office, Municipal Chowky, Municipal Office, Workshop, Auto-parts shop, ATM of bank, canteen, municipal store, Public Toilet facilities. The conditions dictating development specify 1 or 3, Za=10, Zb=10, and in case of 3a) X=50 3b) Y=40.
+58. **Reservation for Transport Garage (RMS 2.1)**:
+   - **Permissible Uses**: Transport Garage, Repair Garage, Store, Related Municipal Office, Municipal Chowky, Workshop.
+   - **Ancillary Activities**: Auto-parts shop, ATM of bank, canteen, municipal store, Public Toilet facilities.
+   - **Development Conditions**: Corporation or Authorities may oversee development , or the Owner is allowed to develop the reservation on an Accommodation Reservation basis . In this case: Maximum 10% of plot area for ancillary uses , Maximum 10% of built-up area for ancillary uses . If the Owner develops on Accommodation Reservation basis, conditions are: 50% of development rights at Zonal FSI for built-up amenity  and 40% of reserved plot for built-up amenity to MCGM .
 
 
 
@@ -4296,47 +4415,59 @@ This section focuses on outlining the conditions essential for the development o
 
 
 
-- Reservation 59 under Municipal Services (Code RMS 3.1) permits the development of Solid Waste Management Facilities and Allied Activity, which might include facilities such as Refuse Sheds, Solid Waste Sorting Centers, Refuse Transfer Stations, Municipal Offices and Stores, Refuse Compactors, and Workers or Rag Picker Sheds. The case scenario might be 1 or 3, with a minimum reserved plot area of 1000 square meters if scenario 3 applies.
+59. **Reservation for Solid Waste Management Facilities and Allied Activity (RMS 3.1)**:
+   - **Permissible Uses**: Refuse Shed, Solid Waste Sorting Center, Refuse Transfer Station, Municipal Chowky, Municipal Office, Municipal Store, Refuse Compactor, Rest Rooms, Workers or Rag Picker Shed and PSC Block.
+   - **Development Conditions**: Corporation or Authorities may oversee development  or if the Owner is allowed to develop the reservation on an Accommodation Reservation basis , conditions are: 60% of reserved plot for built-up amenity to MCGM  and minimum area of reserved plot shall be 1000 sq. m.
 
+60. **Reservation for Scrap Yard (RMS 3.3)**:
+   - **Permissible Uses**: Scrap Yard.
+   - **Ancillary Activities**: ATM of bank, canteen, store.
+   - **Development Conditions**: Corporation or Authorities oversee development  or if the Owner develops on an Accommodation Reservation basis , conditions are: Maximum 10% of plot area for ancillary uses , Maximum 10% of built-up area for ancillary uses , 50% of development rights at Zonal FSI for built-up amenity , and 40% of reserved plot for built-up amenity to MCGM .
 
-
-- Reservation 60 under Municipal Services (Code RMS 3.3), is designated for a Scrap Yard, which might include an ATM of a bank, canteen, or store. The ideal situations might be scenario 1 or 3.
-
-
-
-- Reservation 61 under Municipal Services (Code RMS 5.5) grants permission for Hydraulic Engineering Stores and Offices, which may include a Municipal Store or Office, Municipal Chowky, Pumping Station, and Workshop with Staff Quarters. The conditions that apply might be scenario 1 or 3.
-
+61. **Reservation for Hydraulic Engineering Store/Office (RMS 5.5)**:
+   - **Permissible Uses**: Municipal Store, Municipal Office, Municipal Chowky, Pumping station, Workshop with staff quarters.
+   - **Ancillary Activities**: ATM, Information Kiosk, CFC, Public Toilet facilities.
+   - **Development Conditions**: Corporation or Authorities may oversee development  or if the Owner develops on an Accommodation Reservation basis , conditions are: Maximum 10% of plot area for ancillary uses , Maximum 10% of built-up area for ancillary uses , 50% of development rights at Zonal FSI for built-up amenity , and 40% of reserved plot for built-up amenity to MCGM .
 
 
 ## Reservation Details for Primary Activities and Transportations 
 
 
 
-- Reservation 62 engages Primary Activity (Code RP 1.1) meant for Fish and Net Drying Yards. If scenario 3 applies, the minimum reserved plot area should be 1000 square meters.
+62. **Reservation for Fish & Net Drying yards (RP 1.1)**:
+   - **Permissible Uses**: Fish & Net Drying yards, fish drying related industries, diesel storage, Fish Godown, Fishing Related Industry.
+   - **Ancillary Activities**: Art and culture related uses, Food stalls/Restaurant, Bank Branch.
+   - **Development Conditions**: Corporation or Authorities may oversee development  or if the Owner develops on an Accommodation Reservation basis , conditions are: Maximum 15% of plot area for ancillary uses , Maximum 15% of built-up area for ancillary uses , 70% of reserved plot for built-up amenity to MCGM  and minimum area of reserved plot shall be 1000 sq. m.
 
+63. **Reservation for Dhobi Ghat (RP 2.1)**:
+   - **Permissible Uses**: Art and culture related uses.
+   - **Ancillary Activities**: Public Toilet facilities.
+   - **Development Conditions**: Corporation or Authorities may oversee development  or if the Owner develops on an Accommodation Reservation basis , conditions are: Maximum 10% of plot area for ancillary uses , Maximum 10% of built-up area for ancillary uses , 50% of development rights at Zonal FSI for built-up amenity , and 40% of reserved plot for built-up amenity to MCGM .
 
-
-- Reservation 63 under Primary Activity (Code RP 2.1) permits the development of Dhobi Ghat. The pertinent conditions might be a scenario 1, 2, or 3.
-
-
-
-- Reservation 64 under Transport (Code RT 1.1), allows for a Truck Terminus, which can also include Workshop, Store, Garage, Dormitory with Toilet and Bath. Possible conditions are either scenario 1, 2 or 3.
-
+64. **Reservation for Truck Terminus (RT 1.1)**:
+   - **Permissible Uses**: Truck Terminus, Workshop, Store, Garage, Dormitory with toilet and bath.
+   - **Ancillary Activities**: Restaurant, Branch of Bank, ATM, Information Kiosk, CFC, Police Chowky, PSC.
+   - **Development Conditions**: Corporation or Authorities may oversee development  or if the Owner develops on an Accommodation Reservation basis , conditions are: Maximum 10% of plot area for ancillary uses , Maximum 10% of built-up area for ancillary uses , 50% of development rights at Zonal FSI for built-up amenity , and 40% of reserved plot for built-up amenity to MCGM .
 
 
 ## Accommodation Reservations for Transient Facilities
 
 
 
-- Reservation 65 involves Transport (Code RT 1.4), which is dedicated to BEST Bus Facilities. The possible conditions for this reservation are scenario 1 or 3.
+65. **Reservation for BEST Bus Facilities (RT 1.4)**:
+   - **Permissible Uses**: BEST Bus Depot, BEST Bus Station, Parking Lot for Public, Bus Stops, Sheds, Helipads without affecting traffic, Essential staff quarters for operational uses, Rickshaw and Taxi Parking, and Administrative office, Fuel Station.
+   - **Ancillary Activities**: Cafeteria, Canteen, Police Chowky, CFC, ATM of a Bank.
+   - **Development Conditions**: Corporation or Authorities oversee development  or if the Owner is allowed to develop the reservation on an Accommodation Reservation basis , conditions are: Maximum 10% of built-up area for ancillary uses , 50% of development rights at Zonal FSI for built-up amenity , and 40% of reserved plot for built-up amenity to MCGM .
 
+66. **Reservation for Parking Lot (RT 1.6)**:
+   - **Permissible Uses**: Parking Lot, Municipal Chowky.
+   - **Ancillary Activities**: PSC Security Chowky.
+   - **Development Conditions**: Corporation or Authorities oversee development  or if the Owner develops on an Accommodation Reservation basis , conditions are: Maximum 10% of built-up area for ancillary uses , 125% of development rights at Zonal FSI for built-up amenity .
 
-
-- Reservation 66 related to Transport (Code RT 1.6) pertains to Parking Lots, including Municipal Chawky and PSC Security Chowky. Possible conditions are scenario 1 or 3.
-
-
-
-- Reservation 66A is established for a Metro/Mono Rail Car Shed (Code RT 3.1), which might also include a material depot store, workshop, and officer. The suitable conditions are either scenario 1 or 3.
+66A. **Reservation for Metro / Mono Rail Car Shed (RT 3.1)**:
+   - **Permissible Uses**: Metro / Mono Rail Car Shed, along with other uses if any such as material depot, store, workshop, office.
+   - **Ancillary Activities**: As may be decided by MMRDA or Appropriate Authority.
+   - **Development Conditions**: Corporation or Authorities oversee development  or if the Owner develops on an Accommodation Reservation basis , conditions are: 50% of reserved plot for built-up amenity to MCGM .
 
 
 # Development of Reserved Land for Public Purposes: Specific Conditions for Development under Accommodation Reservation
@@ -4347,14 +4478,15 @@ In the context of developing reserved land for public uses, two different entiti
 
 
 
-For the Industrial Training Institute/Centre, classified under Other Education (code 67) and zoning regulation RE 3.1, the construction must comply with the prescribed norms from the concerned technical authority. This includes the provision for required parking space. Furthermore, the designated amenity areas must include the following elements: art and culture, a cafeteria, a canteen, and an ATM of a bank. In considering the density coefficient, choose either 1 or 3, while also considering Zb=10. In the case of selecting the density coefficient as 3, X should be 50%, and Y should be 40%.
+67. **Reservation for Industrial Training Institute(ITI)/Centre (RE 3.1)**:
+   - **Permissible Uses**: ITI as per the Norms Prescribed by the concerned Technical Authority (Inclusive of provision for required parking space) for the designated amenity.
+   - **Ancillary Activities**: Art and culture, Cafeteria, Canteen, ATM of a Bank.
+   - **Development Conditions**: Corporation or Authorities oversee development  or if the Owner develops on an Accommodation Reservation basis , conditions are: Maximum 10% of built-up area for ancillary uses , 50% of development rights at Zonal FSI for built-up amenity , and 40% of reserved plot for built-up amenity to MCGM .
 
-
-
-The next entity is the National Law University of Maharashtra, classified under Higher Education (code 68) and under zoning regulation RE 2.1. The development requirements for the land are as detailed by the National Law University itself. When considering the density coefficient, pick either 1 or 3. Notably, when density coefficient 3 is selected, Y carves a deduction as -50.
-
-
-
+68. **Reservation for National Law University of Maharashtra (RE 2.1)**:
+   - **Permissible Uses**: Education etc.
+   - **Ancillary Activities**: As required by National Law University.
+   - **Development Conditions**: Corporation or Authorities oversee development  or if the Owner develops on an Accommodation Reservation basis , conditions are: 50% of reserved plot for built-up amenity to MCGM .
 
 
 # Section 17(1) - Guidelines for the Development of Reserved Land for Public Uses
