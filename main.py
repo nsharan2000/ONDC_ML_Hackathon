@@ -94,3 +94,8 @@ async def predict(data: dict):
             raise HTTPException(status_code=400, detail="User message not found in input.")
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.get("/")
+def read_root():
+    return {"Hello": "World"}
