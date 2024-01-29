@@ -1,6 +1,6 @@
 fastapi==0.109.0
 llmware==0.1.14
-openai==0.28.0
+openai==0.27.0
 python-dotenv==1.0.1
 Requests==2.31.0
 uvicorn==0.27.0
