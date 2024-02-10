@@ -14,16 +14,16 @@ app = FastAPI()
 api_key = os.environ.get('OPENAI_API_KEY')
 openai.api_key = api_key
 
-def contract_analysis_w_fact_checking(text):
+def contract_analysis_w_fact_checking(text, topic):
     if not text:
         raise HTTPException(status_code=400, detail="Text field is required in the input data.")
 
     contracts_path = "./Data"
 
     # create prompt object
-    prompter = Prompt().load_model("gpt-4", api_key=os.getenv('OPENAI_API_KEY'), from_hf=False)
+    prompter = Prompt().load_model("gpt-3.5-turbo", api_key=os.getenv('OPENAI_API_KEY'), from_hf=False)
 
-    research = {"topic": "DCPR", "prompt": f"{text}"}
+    research = {"topic": f"{topic}", "prompt": f"{text}"}
 
     # Results will be stored in this list
     results = []
@@ -87,7 +87,8 @@ async def predict(data: dict):
     try:
         messages = data.get("messages", [])
         user_message = next((msg["content"] for msg in messages if msg["role"] == "user"), None)
-        out = contract_analysis_w_fact_checking(user_message)
+        user_topic = next((msg["topic"] for msg in messages if msg["role"] == "system"), None)
+        out = contract_analysis_w_fact_checking(user_message, user_topic)
         if user_message:
             return {"user_content": out}
         else:
