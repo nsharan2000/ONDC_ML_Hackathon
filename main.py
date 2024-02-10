@@ -21,7 +21,7 @@ def contract_analysis_w_fact_checking(text, topic):
     contracts_path = "./Data"
 
     # create prompt object
-    prompter = Prompt().load_model("gpt-3.5-turbo", api_key=os.getenv('OPENAI_API_KEY'), from_hf=False)
+    prompter = Prompt().load_model("gpt-4", api_key=os.getenv('OPENAI_API_KEY'), from_hf=False)
 
     research = {"topic": f"{topic}", "prompt": f"{text}"}
 
