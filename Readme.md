@@ -1,6 +1,60 @@
-# GPT-4 Document Analysis Tool
+# ONDC Hackathon Submission
 
-This guide provides step-by-step instructions for setting up and running the code to utilize the GPT-4 language model for extracting information from PDF or text files.
+This is our submission for the ONDC Hackathon. Our application is currently deployed in Google Cloud. You can use Postman or any tool capable of sending GET and POST requests.
+
+**Requirements:**
+- Internet connection.
+- A valid JSON file with the necessary parameters.
+
+## Step 1: Download and Install Postman
+
+If you don't have Postman installed, you can download it from [Postman Downloads](https://www.postman.com/downloads/). Follow the installation instructions for your operating system.
+
+## Step 2: Prepare JSON Request
+
+Create a JSON file with the following content. This JSON file specifies the model, response format, and messages for the Ondc Work endpoint.
+
+```json
+{
+    "model": "gpt-4",
+    "response_format": {"type": "json_object"},
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are a helpful Assistant who is knowledgeable about all PDFs and their data inside it",
+            "topic": "Food"
+        },
+        {
+            "role": "user",
+            "content": "are there any restrictions on advertisements regarding food and beverages?"
+        }
+    ]
+}
+
+
+
+Feel free to modify the "topic" and "content" values according to your specific questions or topics of interest.
+
+Step 3: Send POST Request using Postman
+Open Postman and follow these steps:
+
+Set the request type to POST.
+Enter the Ondc Work endpoint URL: http://34.29.172.77:80/predict.
+Go to the "Body" tab, select "raw," and paste the prepared JSON file.
+Click the "Send" button to execute the request.
+Step 4: Await Response
+After sending the request, wait for a few seconds for the Ondc Work service to process your query. The response will be displayed in the Postman interface.
+
+Explore the response to find the answer to your question or gather insights based on the topic you provided in the JSON file.
+
+
+
+
+
+
+
+
+This guide provides step-by-step instructions for setting up and running the code to utilize Our RAG model for extracting information from PDF or text files.
 
 ## Prerequisites
 
